@@ -35,4 +35,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,255;00C9FF,7000FF&height=100&section=footer&animation=fadeIn" width="100%"/>
-</div>   this was my profile simplify it
+</div>   

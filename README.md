@@ -57,6 +57,24 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=3" width="100%"/>
 </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=3" width="100%"/>
+  
+  <br><br>
+  
+  <h3>🏆 Certifications & Badges</h3>
+  
+  <p>
+    <a href="YOUR_CREDENTIAL_LINK_HERE">
+      <img width="200" alt="certified-meshery-contributor" src="https://github.com/user-attachments/assets/d4f4f684-4577-47ea-9bb0-a2889ae53671" />
+    </a>
+    <!-- You can drop more badges right here in the future -->
+  </p>
+
+  <br>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=3" width="100%"/>
+</div>
 
 ### <div align="center">📊 **Live Telemetry**</div>
 

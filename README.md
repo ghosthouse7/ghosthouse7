@@ -109,21 +109,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,255;00C9FF,7000FF&height=100&section=footer&animation=fadeIn&reversed=true" width="100%"/>
 </div>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=3" width="100%"/>
-</div>
-
-### <div align="center">🐍 **The Hunt Continues**</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ghosthouse7/ghosthouse7/main/snake-dark.svg#gh-dark-mode-only" alt="snake animation" width="100%"/>
-  <img src="https://raw.githubusercontent.com/ghosthouse7/ghosthouse7/main/snake.svg#gh-light-mode-only" alt="snake animation" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,255;00C9FF,7000FF&height=100&section=footer&animation=fadeIn&reversed=true" width="100%"/>
-</div>

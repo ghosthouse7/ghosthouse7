@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=250&section=header&text=HUNTING%20BUGS&fontSize=70&fontAlign=50&fontAlignY=35&desc=Backend%20Engineering%20%7C%20Data%20Systems&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
 </div>
@@ -57,13 +56,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=3" width="100%"/>
 </div>
+
+### <div align="center">🏆 **Certifications & Badges**</div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=3" width="100%"/>
-  
-  <br><br>
-  
-  <h3>🏆 Certifications & Badges</h3>
-  
+
   <p>
     <a href="YOUR_CREDENTIAL_LINK_HERE">
       <img width="200" alt="certified-meshery-contributor" src="https://github.com/user-attachments/assets/d4f4f684-4577-47ea-9bb0-a2889ae53671" />
@@ -71,8 +68,9 @@
     <!-- You can drop more badges right here in the future -->
   </p>
 
-  <br>
+</div>
 
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=3" width="100%"/>
 </div>
 
@@ -110,5 +108,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,255;00C9FF,7000FF&height=100&section=footer&animation=fadeIn&reversed=true" width="100%"/>
-</div>
 </div>

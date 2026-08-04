@@ -78,19 +78,19 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghosthouse7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=7000FF&text_color=c9d1d9" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosthouse7&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&langs_count=6" height="170" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanasarkar&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&langs_count=6" height="170" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ghosthouse7&hide_border=true&background=0D1117&ring=00C9FF&fire=7000FF&currStreakLabel=00C9FF&sideLabels=7000FF&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=ayanasarkar&hide_border=true&background=0D1117&ring=00C9FF&fire=7000FF&currStreakLabel=00C9FF&sideLabels=7000FF&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" alt="streak stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghosthouse7&bg_color=0D1117&color=c9d1d9&line=00C9FF&point=7000FF&area=true&area_color=7000FF&hide_border=true" width="95%" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanasarkar&bg_color=0D1117&color=c9d1d9&line=00C9FF&point=7000FF&area=true&area_color=7000FF&hide_border=true" width="95%" alt="activity graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghosthouse7&theme=dracula&no-frame=true&column=4&margin-w=8&margin-h=8" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayanasarkar&theme=dracula&no-frame=true&column=4&margin-w=8&margin-h=8" alt="trophies"/>
 </div>
 
 <div align="center">

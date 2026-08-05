@@ -65,6 +65,8 @@
     <a href="YOUR_CREDENTIAL_LINK_HERE">
       <img width="200" alt="certified-meshery-contributor" src="https://github.com/user-attachments/assets/d4f4f684-4577-47ea-9bb0-a2889ae53671" />
     </a>
+    <img width="200"  alt="image" src="https://github.com/user-attachments/assets/2085b06f-6af6-4c43-b3ce-d77a42679230" />
+     </a>
     <!-- You can drop more badges right here in the future -->
   </p>
 
